@@ -1,0 +1,16 @@
+{
+  "video_id": "1496705510386788",
+  "snapshot_id": "20250618_130113_before_extraction_130244",
+  "analysis_timestamp": "2025-06-18T13:06:00.288716",
+  "patterns_found": [],
+  "potential_titles": [],
+  "dom_statistics": {
+    "total_links": 167,
+    "video_links": 0,
+    "heading_elements": 2,
+    "span_elements": 1921,
+    "div_elements": 2934,
+    "elements_with_aria_label": 341
+  },
+  "video_links_found": 0
+}

@@ -1,0 +1,117 @@
+{
+  "total_score": 42288,
+  "sessions_completed": 11,
+  "best_session_score": 5213,
+  "unlocked_achievements": [
+    "First Success",
+    "Video Hunter",
+    "Title Master",
+    "Speed Demon",
+    "Episode Detective",
+    "Data Collector",
+    "Mass Harvester",
+    "Perfect Extraction",
+    "Smart Detective",
+    "Lord Danis Approved",
+    "Full Archive",
+    "Quality Control",
+    "DOM Archaeologist"
+  ],
+  "session_history": [
+    {
+      "timestamp": 1750243002,
+      "score": 2368,
+      "videos_found": 21,
+      "proper_titles": 20,
+      "completion_time": 48.67978596687317,
+      "grade": "S+ (Lord Danis Level)"
+    },
+    {
+      "timestamp": 1750243624,
+      "score": 2750,
+      "videos_found": 45,
+      "proper_titles": 45,
+      "completion_time": 92.31102585792542,
+      "grade": "S+ (Lord Danis Level)"
+    },
+    {
+      "timestamp": 1750244357,
+      "score": 2028,
+      "videos_found": 21,
+      "proper_titles": 21,
+      "completion_time": 52.8045608997345,
+      "grade": "S+ (Lord Danis Level)"
+    },
+    {
+      "timestamp": 1750244760,
+      "score": 3865,
+      "videos_found": 75,
+      "proper_titles": 75,
+      "completion_time": 240.2807559967041,
+      "grade": "S+ (Lord Danis Level)"
+    },
+    {
+      "timestamp": 1750245478,
+      "score": 3849,
+      "videos_found": 156,
+      "proper_titles": 48,
+      "completion_time": 333.92902994155884,
+      "grade": "S+ (Lord Danis Level)"
+    },
+    {
+      "timestamp": 1750247421,
+      "score": 5056,
+      "videos_found": 147,
+      "proper_titles": 145,
+      "completion_time": 569.2524170875549,
+      "grade": "S+ (Lord Danis Level)"
+    },
+    {
+      "timestamp": 1750248129,
+      "score": 5213,
+      "videos_found": 156,
+      "proper_titles": 154,
+      "completion_time": 610.5275731086731,
+      "grade": "S+ (Lord Danis Level)"
+    },
+    {
+      "timestamp": 1750248547,
+      "score": 3581,
+      "videos_found": 156,
+      "proper_titles": 67,
+      "completion_time": 331.2741119861603,
+      "grade": "S+ (Lord Danis Level)"
+    },
+    {
+      "timestamp": 1750249955,
+      "score": 5213,
+      "videos_found": 156,
+      "proper_titles": 154,
+      "completion_time": 612.3229761123657,
+      "grade": "S+ (Lord Danis Level)"
+    },
+    {
+      "timestamp": 1750250694,
+      "score": 5213,
+      "videos_found": 156,
+      "proper_titles": 154,
+      "completion_time": 629.9191901683807,
+      "grade": "S+ (Lord Danis Level)"
+    }
+  ],
+  "statistics": {
+    "total_videos_scraped": 1098,
+    "total_titles_extracted": 901,
+    "total_proper_episodes": 892,
+    "fastest_completion": 33.37756967544556,
+    "highest_efficiency": 9.0,
+    "total_dates_found": 901,
+    "total_engagement_found": 0
+  },
+  "lord_danis_achievements": {
+    "s_plus_grades": 11,
+    "perfect_sessions": 4,
+    "consecutive_quality_runs": 0,
+    "master_scraper_status": true
+  }
+}

@@ -1,0 +1,775 @@
+{
+  "session_id": "20250618_131141",
+  "timestamp": "2025-06-18T13:17:58.340366",
+  "session_stats": {
+    "videos_found": 156,
+    "titles_extracted": 48,
+    "proper_episode_titles": 48,
+    "dates_found": 48,
+    "likes_found": 0,
+    "unique_videos": 156,
+    "scroll_efficiency": 0,
+    "completion_time": 333.92902994155884
+  },
+  "videos_found": 156,
+  "dom_snapshots": [
+    {
+      "session_id": "20250618_131141",
+      "snapshot_id": "20250618_131141_initial_load_131223",
+      "stage": "initial_load",
+      "description": "Page loaded, videos section ready",
+      "timestamp": "2025-06-18T13:12:24.186035",
+      "url": "https://www.facebook.com/DRAGAMAMA/videos",
+      "window_size": {
+        "width": 1692,
+        "height": 1021
+      },
+      "page_source_length": 7446277,
+      "metadata": {
+        "videos_found_so_far": 0,
+        "scroll_position": 0,
+        "page_height": 2591,
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+      }
+    },
+    {
+      "session_id": "20250618_131141",
+      "snapshot_id": "20250618_131141_scroll_start_131224",
+      "stage": "scroll_start",
+      "description": "Beginning infinite scroll",
+      "timestamp": "2025-06-18T13:12:24.629827",
+      "url": "https://www.facebook.com/DRAGAMAMA/videos",
+      "window_size": {
+        "width": 1692,
+        "height": 1021
+      },
+      "page_source_length": 7446277,
+      "metadata": {
+        "videos_found_so_far": 0,
+        "scroll_position": 0,
+        "page_height": 2591,
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+      }
+    },
+    {
+      "session_id": "20250618_131141",
+      "snapshot_id": "20250618_131141_scroll_25_131447",
+      "stage": "scroll_25",
+      "description": "Mid-scroll checkpoint at 25 scrolls",
+      "timestamp": "2025-06-18T13:14:47.958526",
+      "url": "https://www.facebook.com/DRAGAMAMA/videos",
+      "window_size": {
+        "width": 1692,
+        "height": 1021
+      },
+      "page_source_length": 9041848,
+      "metadata": {
+        "videos_found_so_far": 0,
+        "scroll_position": 14425.5,
+        "page_height": 15359,
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+      }
+    },
+    {
+      "session_id": "20250618_131141",
+      "snapshot_id": "20250618_131141_scroll_complete_131515",
+      "stage": "scroll_complete",
+      "description": "Finished scrolling after 26 scrolls",
+      "timestamp": "2025-06-18T13:15:16.023520",
+      "url": "https://www.facebook.com/DRAGAMAMA/videos",
+      "window_size": {
+        "width": 1692,
+        "height": 1021
+      },
+      "page_source_length": 9041848,
+      "metadata": {
+        "videos_found_so_far": 0,
+        "scroll_position": 14425.5,
+        "page_height": 15359,
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+      }
+    },
+    {
+      "session_id": "20250618_131141",
+      "snapshot_id": "20250618_131141_before_extraction_131521",
+      "stage": "before_extraction",
+      "description": "Ready to extract data from 156 videos",
+      "timestamp": "2025-06-18T13:15:22.128238",
+      "url": "https://www.facebook.com/DRAGAMAMA/videos",
+      "window_size": {
+        "width": 1692,
+        "height": 1021
+      },
+      "page_source_length": 9041848,
+      "metadata": {
+        "videos_found_so_far": 0,
+        "scroll_position": 14425.5,
+        "page_height": 15359,
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+      }
+    }
+  ],
+  "failed_extractions": [
+    {
+      "video_id": "394517285283903",
+      "title": "Draga mama 208. [Episode Title Unknown]",
+      "url": "https://www.facebook.com/watch/?v=394517285283903",
+      "date": "4 years ago"
+    },
+    {
+      "video_id": "125583352142907",
+      "title": "Draga mama 199. [Episode Title Unknown]",
+      "url": "https://www.facebook.com/watch/?v=125583352142907",
+      "date": "5 years ago"
+    },
+    {
+      "video_id": "1676005345790136",
+      "title": "DRAGAMAMA_Video_1676005345790136",
+      "url": "https://www.facebook.com/watch/?v=1676005345790136",
+      "date": ""
+    },
+    {
+      "video_id": "1656186191105385",
+      "title": "DRAGAMAMA_Video_1656186191105385",
+      "url": "https://www.facebook.com/watch/?v=1656186191105385",
+      "date": ""
+    },
+    {
+      "video_id": "1641399945917343",
+      "title": "DRAGAMAMA_Video_1641399945917343",
+      "url": "https://www.facebook.com/watch/?v=1641399945917343",
+      "date": ""
+    },
+    {
+      "video_id": "1618793971511274",
+      "title": "DRAGAMAMA_Video_1618793971511274",
+      "url": "https://www.facebook.com/watch/?v=1618793971511274",
+      "date": ""
+    },
+    {
+      "video_id": "1610812035642801",
+      "title": "DRAGAMAMA_Video_1610812035642801",
+      "url": "https://www.facebook.com/watch/?v=1610812035642801",
+      "date": ""
+    },
+    {
+      "video_id": "1579649468759058",
+      "title": "DRAGAMAMA_Video_1579649468759058",
+      "url": "https://www.facebook.com/watch/?v=1579649468759058",
+      "date": ""
+    },
+    {
+      "video_id": "1557392464318092",
+      "title": "DRAGAMAMA_Video_1557392464318092",
+      "url": "https://www.facebook.com/watch/?v=1557392464318092",
+      "date": ""
+    },
+    {
+      "video_id": "1538488736208465",
+      "title": "DRAGAMAMA_Video_1538488736208465",
+      "url": "https://www.facebook.com/watch/?v=1538488736208465",
+      "date": ""
+    },
+    {
+      "video_id": "1518432934880712",
+      "title": "DRAGAMAMA_Video_1518432934880712",
+      "url": "https://www.facebook.com/watch/?v=1518432934880712",
+      "date": ""
+    },
+    {
+      "video_id": "1506598336064172",
+      "title": "DRAGAMAMA_Video_1506598336064172",
+      "url": "https://www.facebook.com/watch/?v=1506598336064172",
+      "date": ""
+    },
+    {
+      "video_id": "1496705510386788",
+      "title": "DRAGAMAMA_Video_1496705510386788",
+      "url": "https://www.facebook.com/watch/?v=1496705510386788",
+      "date": ""
+    },
+    {
+      "video_id": "1490775087646497",
+      "title": "DRAGAMAMA_Video_1490775087646497",
+      "url": "https://www.facebook.com/watch/?v=1490775087646497",
+      "date": ""
+    },
+    {
+      "video_id": "1475743132483026",
+      "title": "DRAGAMAMA_Video_1475743132483026",
+      "url": "https://www.facebook.com/watch/?v=1475743132483026",
+      "date": ""
+    },
+    {
+      "video_id": "1455977097792963",
+      "title": "DRAGAMAMA_Video_1455977097792963",
+      "url": "https://www.facebook.com/watch/?v=1455977097792963",
+      "date": ""
+    },
+    {
+      "video_id": "1440617235995616",
+      "title": "DRAGAMAMA_Video_1440617235995616",
+      "url": "https://www.facebook.com/watch/?v=1440617235995616",
+      "date": ""
+    },
+    {
+      "video_id": "1424558337601506",
+      "title": "DRAGAMAMA_Video_1424558337601506",
+      "url": "https://www.facebook.com/watch/?v=1424558337601506",
+      "date": ""
+    },
+    {
+      "video_id": "1383598901697450",
+      "title": "DRAGAMAMA_Video_1383598901697450",
+      "url": "https://www.facebook.com/watch/?v=1383598901697450",
+      "date": ""
+    },
+    {
+      "video_id": "1369210929802914",
+      "title": "DRAGAMAMA_Video_1369210929802914",
+      "url": "https://www.facebook.com/watch/?v=1369210929802914",
+      "date": ""
+    },
+    {
+      "video_id": "1353718308018843",
+      "title": "DRAGAMAMA_Video_1353718308018843",
+      "url": "https://www.facebook.com/watch/?v=1353718308018843",
+      "date": ""
+    },
+    {
+      "video_id": "1336216973102310",
+      "title": "DRAGAMAMA_Video_1336216973102310",
+      "url": "https://www.facebook.com/watch/?v=1336216973102310",
+      "date": ""
+    },
+    {
+      "video_id": "1313689148688426",
+      "title": "DRAGAMAMA_Video_1313689148688426",
+      "url": "https://www.facebook.com/watch/?v=1313689148688426",
+      "date": ""
+    },
+    {
+      "video_id": "1313686995355308",
+      "title": "DRAGAMAMA_Video_1313686995355308",
+      "url": "https://www.facebook.com/watch/?v=1313686995355308",
+      "date": ""
+    },
+    {
+      "video_id": "1287021881355153",
+      "title": "DRAGAMAMA_Video_1287021881355153",
+      "url": "https://www.facebook.com/watch/?v=1287021881355153",
+      "date": ""
+    },
+    {
+      "video_id": "1270903259633682",
+      "title": "DRAGAMAMA_Video_1270903259633682",
+      "url": "https://www.facebook.com/watch/?v=1270903259633682",
+      "date": ""
+    },
+    {
+      "video_id": "1240987312625277",
+      "title": "DRAGAMAMA_Video_1240987312625277",
+      "url": "https://www.facebook.com/watch/?v=1240987312625277",
+      "date": ""
+    },
+    {
+      "video_id": "1230908196966522",
+      "title": "DRAGAMAMA_Video_1230908196966522",
+      "url": "https://www.facebook.com/watch/?v=1230908196966522",
+      "date": ""
+    },
+    {
+      "video_id": "1210517255672283",
+      "title": "DRAGAMAMA_Video_1210517255672283",
+      "url": "https://www.facebook.com/watch/?v=1210517255672283",
+      "date": ""
+    },
+    {
+      "video_id": "1201009103289765",
+      "title": "DRAGAMAMA_Video_1201009103289765",
+      "url": "https://www.facebook.com/watch/?v=1201009103289765",
+      "date": ""
+    },
+    {
+      "video_id": "1187611014629574",
+      "title": "DRAGAMAMA_Video_1187611014629574",
+      "url": "https://www.facebook.com/watch/?v=1187611014629574",
+      "date": ""
+    },
+    {
+      "video_id": "1183863321671010",
+      "title": "DRAGAMAMA_Video_1183863321671010",
+      "url": "https://www.facebook.com/watch/?v=1183863321671010",
+      "date": ""
+    },
+    {
+      "video_id": "1169671416423534",
+      "title": "DRAGAMAMA_Video_1169671416423534",
+      "url": "https://www.facebook.com/watch/?v=1169671416423534",
+      "date": ""
+    },
+    {
+      "video_id": "1141285455928797",
+      "title": "DRAGAMAMA_Video_1141285455928797",
+      "url": "https://www.facebook.com/watch/?v=1141285455928797",
+      "date": ""
+    },
+    {
+      "video_id": "1132586836798659",
+      "title": "DRAGAMAMA_Video_1132586836798659",
+      "url": "https://www.facebook.com/watch/?v=1132586836798659",
+      "date": ""
+    },
+    {
+      "video_id": "1111538612236815",
+      "title": "DRAGAMAMA_Video_1111538612236815",
+      "url": "https://www.facebook.com/watch/?v=1111538612236815",
+      "date": ""
+    },
+    {
+      "video_id": "1105471482843528",
+      "title": "DRAGAMAMA_Video_1105471482843528",
+      "url": "https://www.facebook.com/watch/?v=1105471482843528",
+      "date": ""
+    },
+    {
+      "video_id": "1094396480617695",
+      "title": "DRAGAMAMA_Video_1094396480617695",
+      "url": "https://www.facebook.com/watch/?v=1094396480617695",
+      "date": ""
+    },
+    {
+      "video_id": "1084131528310857",
+      "title": "DRAGAMAMA_Video_1084131528310857",
+      "url": "https://www.facebook.com/watch/?v=1084131528310857",
+      "date": ""
+    },
+    {
+      "video_id": "1078427505547926",
+      "title": "DRAGAMAMA_Video_1078427505547926",
+      "url": "https://www.facebook.com/watch/?v=1078427505547926",
+      "date": ""
+    },
+    {
+      "video_id": "1061195863937757",
+      "title": "DRAGAMAMA_Video_1061195863937757",
+      "url": "https://www.facebook.com/watch/?v=1061195863937757",
+      "date": ""
+    },
+    {
+      "video_id": "1039067206150623",
+      "title": "DRAGAMAMA_Video_1039067206150623",
+      "url": "https://www.facebook.com/watch/?v=1039067206150623",
+      "date": ""
+    },
+    {
+      "video_id": "1022093517847992",
+      "title": "DRAGAMAMA_Video_1022093517847992",
+      "url": "https://www.facebook.com/watch/?v=1022093517847992",
+      "date": ""
+    },
+    {
+      "video_id": "1003967939660550",
+      "title": "DRAGAMAMA_Video_1003967939660550",
+      "url": "https://www.facebook.com/watch/?v=1003967939660550",
+      "date": ""
+    },
+    {
+      "video_id": "1001824803208197",
+      "title": "DRAGAMAMA_Video_1001824803208197",
+      "url": "https://www.facebook.com/watch/?v=1001824803208197",
+      "date": ""
+    },
+    {
+      "video_id": "998970573493620",
+      "title": "DRAGAMAMA_Video_998970573493620",
+      "url": "https://www.facebook.com/watch/?v=998970573493620",
+      "date": ""
+    },
+    {
+      "video_id": "987358687988142",
+      "title": "DRAGAMAMA_Video_987358687988142",
+      "url": "https://www.facebook.com/watch/?v=987358687988142",
+      "date": ""
+    },
+    {
+      "video_id": "978133958910615",
+      "title": "DRAGAMAMA_Video_978133958910615",
+      "url": "https://www.facebook.com/watch/?v=978133958910615",
+      "date": ""
+    },
+    {
+      "video_id": "963992706991407",
+      "title": "DRAGAMAMA_Video_963992706991407",
+      "url": "https://www.facebook.com/watch/?v=963992706991407",
+      "date": ""
+    },
+    {
+      "video_id": "958876234169721",
+      "title": "DRAGAMAMA_Video_958876234169721",
+      "url": "https://www.facebook.com/watch/?v=958876234169721",
+      "date": ""
+    },
+    {
+      "video_id": "949858878404790",
+      "title": "DRAGAMAMA_Video_949858878404790",
+      "url": "https://www.facebook.com/watch/?v=949858878404790",
+      "date": ""
+    },
+    {
+      "video_id": "946185218772156",
+      "title": "DRAGAMAMA_Video_946185218772156",
+      "url": "https://www.facebook.com/watch/?v=946185218772156",
+      "date": ""
+    },
+    {
+      "video_id": "935500056507339",
+      "title": "DRAGAMAMA_Video_935500056507339",
+      "url": "https://www.facebook.com/watch/?v=935500056507339",
+      "date": ""
+    },
+    {
+      "video_id": "924637687593576",
+      "title": "DRAGAMAMA_Video_924637687593576",
+      "url": "https://www.facebook.com/watch/?v=924637687593576",
+      "date": ""
+    },
+    {
+      "video_id": "922137451176933",
+      "title": "DRAGAMAMA_Video_922137451176933",
+      "url": "https://www.facebook.com/watch/?v=922137451176933",
+      "date": ""
+    },
+    {
+      "video_id": "910539935670018",
+      "title": "DRAGAMAMA_Video_910539935670018",
+      "url": "https://www.facebook.com/watch/?v=910539935670018",
+      "date": ""
+    },
+    {
+      "video_id": "903423286381683",
+      "title": "DRAGAMAMA_Video_903423286381683",
+      "url": "https://www.facebook.com/watch/?v=903423286381683",
+      "date": ""
+    },
+    {
+      "video_id": "891648187559193",
+      "title": "DRAGAMAMA_Video_891648187559193",
+      "url": "https://www.facebook.com/watch/?v=891648187559193",
+      "date": ""
+    },
+    {
+      "video_id": "887312354659443",
+      "title": "DRAGAMAMA_Video_887312354659443",
+      "url": "https://www.facebook.com/watch/?v=887312354659443",
+      "date": ""
+    },
+    {
+      "video_id": "880889321968413",
+      "title": "DRAGAMAMA_Video_880889321968413",
+      "url": "https://www.facebook.com/watch/?v=880889321968413",
+      "date": ""
+    },
+    {
+      "video_id": "876616192395726",
+      "title": "DRAGAMAMA_Video_876616192395726",
+      "url": "https://www.facebook.com/watch/?v=876616192395726",
+      "date": ""
+    },
+    {
+      "video_id": "860174144039931",
+      "title": "DRAGAMAMA_Video_860174144039931",
+      "url": "https://www.facebook.com/watch/?v=860174144039931",
+      "date": ""
+    },
+    {
+      "video_id": "858783464178999",
+      "title": "DRAGAMAMA_Video_858783464178999",
+      "url": "https://www.facebook.com/watch/?v=858783464178999",
+      "date": ""
+    },
+    {
+      "video_id": "854118414645504",
+      "title": "DRAGAMAMA_Video_854118414645504",
+      "url": "https://www.facebook.com/watch/?v=854118414645504",
+      "date": ""
+    },
+    {
+      "video_id": "842539989136680",
+      "title": "DRAGAMAMA_Video_842539989136680",
+      "url": "https://www.facebook.com/watch/?v=842539989136680",
+      "date": ""
+    },
+    {
+      "video_id": "834716119919067",
+      "title": "DRAGAMAMA_Video_834716119919067",
+      "url": "https://www.facebook.com/watch/?v=834716119919067",
+      "date": ""
+    },
+    {
+      "video_id": "825123860878293",
+      "title": "DRAGAMAMA_Video_825123860878293",
+      "url": "https://www.facebook.com/watch/?v=825123860878293",
+      "date": ""
+    },
+    {
+      "video_id": "818399078217438",
+      "title": "DRAGAMAMA_Video_818399078217438",
+      "url": "https://www.facebook.com/watch/?v=818399078217438",
+      "date": ""
+    },
+    {
+      "video_id": "807587359298610",
+      "title": "DRAGAMAMA_Video_807587359298610",
+      "url": "https://www.facebook.com/watch/?v=807587359298610",
+      "date": ""
+    },
+    {
+      "video_id": "805100889547257",
+      "title": "DRAGAMAMA_Video_805100889547257",
+      "url": "https://www.facebook.com/watch/?v=805100889547257",
+      "date": ""
+    },
+    {
+      "video_id": "799975623393117",
+      "title": "DRAGAMAMA_Video_799975623393117",
+      "url": "https://www.facebook.com/watch/?v=799975623393117",
+      "date": ""
+    },
+    {
+      "video_id": "795773710479975",
+      "title": "DRAGAMAMA_Video_795773710479975",
+      "url": "https://www.facebook.com/watch/?v=795773710479975",
+      "date": ""
+    },
+    {
+      "video_id": "793922913998388",
+      "title": "DRAGAMAMA_Video_793922913998388",
+      "url": "https://www.facebook.com/watch/?v=793922913998388",
+      "date": ""
+    },
+    {
+      "video_id": "789631007760912",
+      "title": "DRAGAMAMA_Video_789631007760912",
+      "url": "https://www.facebook.com/watch/?v=789631007760912",
+      "date": ""
+    },
+    {
+      "video_id": "781500058574007",
+      "title": "DRAGAMAMA_Video_781500058574007",
+      "url": "https://www.facebook.com/watch/?v=781500058574007",
+      "date": ""
+    },
+    {
+      "video_id": "776822175708462",
+      "title": "DRAGAMAMA_Video_776822175708462",
+      "url": "https://www.facebook.com/watch/?v=776822175708462",
+      "date": ""
+    },
+    {
+      "video_id": "773639766026703",
+      "title": "DRAGAMAMA_Video_773639766026703",
+      "url": "https://www.facebook.com/watch/?v=773639766026703",
+      "date": ""
+    },
+    {
+      "video_id": "766379470086066",
+      "title": "DRAGAMAMA_Video_766379470086066",
+      "url": "https://www.facebook.com/watch/?v=766379470086066",
+      "date": ""
+    },
+    {
+      "video_id": "764607293596617",
+      "title": "DRAGAMAMA_Video_764607293596617",
+      "url": "https://www.facebook.com/watch/?v=764607293596617",
+      "date": ""
+    },
+    {
+      "video_id": "758642697526410",
+      "title": "DRAGAMAMA_Video_758642697526410",
+      "url": "https://www.facebook.com/watch/?v=758642697526410",
+      "date": ""
+    },
+    {
+      "video_id": "755603301163683",
+      "title": "DRAGAMAMA_Video_755603301163683",
+      "url": "https://www.facebook.com/watch/?v=755603301163683",
+      "date": ""
+    },
+    {
+      "video_id": "751074788283201",
+      "title": "DRAGAMAMA_Video_751074788283201",
+      "url": "https://www.facebook.com/watch/?v=751074788283201",
+      "date": ""
+    },
+    {
+      "video_id": "748291258561554",
+      "title": "DRAGAMAMA_Video_748291258561554",
+      "url": "https://www.facebook.com/watch/?v=748291258561554",
+      "date": ""
+    },
+    {
+      "video_id": "747843348606345",
+      "title": "DRAGAMAMA_Video_747843348606345",
+      "url": "https://www.facebook.com/watch/?v=747843348606345",
+      "date": ""
+    },
+    {
+      "video_id": "741938842530129",
+      "title": "DRAGAMAMA_Video_741938842530129",
+      "url": "https://www.facebook.com/watch/?v=741938842530129",
+      "date": ""
+    },
+    {
+      "video_id": "738070216250325",
+      "title": "DRAGAMAMA_Video_738070216250325",
+      "url": "https://www.facebook.com/watch/?v=738070216250325",
+      "date": ""
+    },
+    {
+      "video_id": "731205443603469",
+      "title": "DRAGAMAMA_Video_731205443603469",
+      "url": "https://www.facebook.com/watch/?v=731205443603469",
+      "date": ""
+    },
+    {
+      "video_id": "727986467258700",
+      "title": "DRAGAMAMA_Video_727986467258700",
+      "url": "https://www.facebook.com/watch/?v=727986467258700",
+      "date": ""
+    },
+    {
+      "video_id": "723327011057979",
+      "title": "DRAGAMAMA_Video_723327011057979",
+      "url": "https://www.facebook.com/watch/?v=723327011057979",
+      "date": ""
+    },
+    {
+      "video_id": "714475748609772",
+      "title": "DRAGAMAMA_Video_714475748609772",
+      "url": "https://www.facebook.com/watch/?v=714475748609772",
+      "date": ""
+    },
+    {
+      "video_id": "710851268972220",
+      "title": "DRAGAMAMA_Video_710851268972220",
+      "url": "https://www.facebook.com/watch/?v=710851268972220",
+      "date": ""
+    },
+    {
+      "video_id": "708782925845721",
+      "title": "DRAGAMAMA_Video_708782925845721",
+      "url": "https://www.facebook.com/watch/?v=708782925845721",
+      "date": ""
+    },
+    {
+      "video_id": "698260716897942",
+      "title": "DRAGAMAMA_Video_698260716897942",
+      "url": "https://www.facebook.com/watch/?v=698260716897942",
+      "date": ""
+    },
+    {
+      "video_id": "693151210742226",
+      "title": "DRAGAMAMA_Video_693151210742226",
+      "url": "https://www.facebook.com/watch/?v=693151210742226",
+      "date": ""
+    },
+    {
+      "video_id": "687524387971575",
+      "title": "DRAGAMAMA_Video_687524387971575",
+      "url": "https://www.facebook.com/watch/?v=687524387971575",
+      "date": ""
+    },
+    {
+      "video_id": "682053758518638",
+      "title": "DRAGAMAMA_Video_682053758518638",
+      "url": "https://www.facebook.com/watch/?v=682053758518638",
+      "date": ""
+    },
+    {
+      "video_id": "676983585692322",
+      "title": "DRAGAMAMA_Video_676983585692322",
+      "url": "https://www.facebook.com/watch/?v=676983585692322",
+      "date": ""
+    },
+    {
+      "video_id": "674129355977745",
+      "title": "DRAGAMAMA_Video_674129355977745",
+      "url": "https://www.facebook.com/watch/?v=674129355977745",
+      "date": ""
+    },
+    {
+      "video_id": "672832909440723",
+      "title": "DRAGAMAMA_Video_672832909440723",
+      "url": "https://www.facebook.com/watch/?v=672832909440723",
+      "date": ""
+    },
+    {
+      "video_id": "669493406441340",
+      "title": "DRAGAMAMA_Video_669493406441340",
+      "url": "https://www.facebook.com/watch/?v=669493406441340",
+      "date": ""
+    },
+    {
+      "video_id": "664935286897152",
+      "title": "DRAGAMAMA_Video_664935286897152",
+      "url": "https://www.facebook.com/watch/?v=664935286897152",
+      "date": ""
+    },
+    {
+      "video_id": "656644967726184",
+      "title": "DRAGAMAMA_Video_656644967726184",
+      "url": "https://www.facebook.com/watch/?v=656644967726184",
+      "date": ""
+    },
+    {
+      "video_id": "635919113132103",
+      "title": "DRAGAMAMA_Video_635919113132103",
+      "url": "https://www.facebook.com/watch/?v=635919113132103",
+      "date": ""
+    },
+    {
+      "video_id": "635917029798978",
+      "title": "DRAGAMAMA_Video_635917029798978",
+      "url": "https://www.facebook.com/watch/?v=635917029798978",
+      "date": ""
+    },
+    {
+      "video_id": "635915366465811",
+      "title": "DRAGAMAMA_Video_635915366465811",
+      "url": "https://www.facebook.com/watch/?v=635915366465811",
+      "date": ""
+    },
+    {
+      "video_id": "635914739799207",
+      "title": "DRAGAMAMA_Video_635914739799207",
+      "url": "https://www.facebook.com/watch/?v=635914739799207",
+      "date": ""
+    },
+    {
+      "video_id": "635914023132612",
+      "title": "DRAGAMAMA_Video_635914023132612",
+      "url": "https://www.facebook.com/watch/?v=635914023132612",
+      "date": ""
+    },
+    {
+      "video_id": "10201500151657676",
+      "title": "DRAGAMAMA_Video_10201500151657676",
+      "url": "https://www.facebook.com/watch/?v=10201500151657676",
+      "date": ""
+    },
+    {
+      "video_id": "10201500133937233",
+      "title": "DRAGAMAMA_Video_10201500133937233",
+      "url": "https://www.facebook.com/watch/?v=10201500133937233",
+      "date": ""
+    },
+    {
+      "video_id": "10201500089536123",
+      "title": "DRAGAMAMA_Video_10201500089536123",
+      "url": "https://www.facebook.com/watch/?v=10201500089536123",
+      "date": ""
+    }
+  ],
+  "extraction_success_rate": 30.76923076923077
+}

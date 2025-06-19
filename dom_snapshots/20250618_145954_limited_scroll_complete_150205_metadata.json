@@ -1,0 +1,19 @@
+{
+  "session_id": "20250618_145954",
+  "snapshot_id": "20250618_145954_limited_scroll_complete_150205",
+  "stage": "limited_scroll_complete",
+  "description": "Completed 18 limited scrolls",
+  "timestamp": "2025-06-18T15:02:06.165051",
+  "url": "https://www.facebook.com/DRAGAMAMA/videos",
+  "window_size": {
+    "width": 1426,
+    "height": 771
+  },
+  "page_source_length": 8847248,
+  "metadata": {
+    "videos_found_so_far": 0,
+    "scroll_position": 12926,
+    "page_height": 14157,
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
+  }
+}

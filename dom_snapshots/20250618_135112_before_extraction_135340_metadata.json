@@ -1,0 +1,19 @@
+{
+  "session_id": "20250618_135112",
+  "snapshot_id": "20250618_135112_before_extraction_135340",
+  "stage": "before_extraction",
+  "description": "Ready to extract data from 156 videos",
+  "timestamp": "2025-06-18T13:53:40.990250",
+  "url": "https://www.facebook.com/DRAGAMAMA/videos",
+  "window_size": {
+    "width": 1938,
+    "height": 1021
+  },
+  "page_source_length": 8970544,
+  "metadata": {
+    "videos_found_so_far": 0,
+    "scroll_position": 14425.5,
+    "page_height": 15359,
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+  }
+}

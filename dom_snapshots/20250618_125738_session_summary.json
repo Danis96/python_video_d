@@ -1,0 +1,102 @@
+{
+  "session_id": "20250618_125738",
+  "timestamp": "2025-06-18T12:59:17.438676",
+  "session_stats": {
+    "videos_found": 21,
+    "titles_extracted": 21,
+    "proper_episode_titles": 21,
+    "dates_found": 21,
+    "likes_found": 0,
+    "unique_videos": 21,
+    "scroll_efficiency": 7.0,
+    "completion_time": 52.8045608997345
+  },
+  "videos_found": 21,
+  "dom_snapshots": [
+    {
+      "session_id": "20250618_125738",
+      "snapshot_id": "20250618_125738_initial_load_125824",
+      "stage": "initial_load",
+      "description": "Page loaded, videos section ready",
+      "timestamp": "2025-06-18T12:58:24.407499",
+      "url": "https://www.facebook.com/DRAGAMAMA/videos",
+      "window_size": {
+        "width": 1920,
+        "height": 1021
+      },
+      "page_source_length": 7524602,
+      "metadata": {
+        "videos_found_so_far": 0,
+        "scroll_position": 0,
+        "page_height": 2591,
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+      }
+    },
+    {
+      "session_id": "20250618_125738",
+      "snapshot_id": "20250618_125738_limited_scroll_complete_125853",
+      "stage": "limited_scroll_complete",
+      "description": "Completed 3 limited scrolls",
+      "timestamp": "2025-06-18T12:58:54.017409",
+      "url": "https://www.facebook.com/DRAGAMAMA/videos",
+      "window_size": {
+        "width": 1920,
+        "height": 1021
+      },
+      "page_source_length": 7690554,
+      "metadata": {
+        "videos_found_so_far": 0,
+        "scroll_position": 2730,
+        "page_height": 3664,
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+      }
+    },
+    {
+      "session_id": "20250618_125738",
+      "snapshot_id": "20250618_125738_before_extraction_125854",
+      "stage": "before_extraction",
+      "description": "Ready to extract data from 21 videos",
+      "timestamp": "2025-06-18T12:58:54.573939",
+      "url": "https://www.facebook.com/DRAGAMAMA/videos",
+      "window_size": {
+        "width": 1920,
+        "height": 1021
+      },
+      "page_source_length": 7690554,
+      "metadata": {
+        "videos_found_so_far": 0,
+        "scroll_position": 2730,
+        "page_height": 3664,
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+      }
+    },
+    {
+      "session_id": "20250618_125738",
+      "snapshot_id": "20250618_125738_extraction_complete_125916",
+      "stage": "extraction_complete",
+      "description": "Extraction complete: 21 videos processed",
+      "timestamp": "2025-06-18T12:59:17.211398",
+      "url": "https://www.facebook.com/DRAGAMAMA/videos",
+      "window_size": {
+        "width": 1920,
+        "height": 1021
+      },
+      "page_source_length": 7690554,
+      "metadata": {
+        "videos_found_so_far": 21,
+        "scroll_position": 2730,
+        "page_height": 3664,
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+      }
+    }
+  ],
+  "failed_extractions": [
+    {
+      "video_id": "394517285283903",
+      "title": "Draga mama 208. [Episode Title Unknown]",
+      "url": "https://www.facebook.com/watch/?v=394517285283903",
+      "date": "4 years ago"
+    }
+  ],
+  "extraction_success_rate": 100.0
+}
