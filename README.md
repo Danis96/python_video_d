@@ -327,8 +327,6 @@ python harvest_analyzer.py               # Detailed analysis
 python analyze_dom_snapshots.py          # Technical deep-dive
 ```
 
-## 🎓 Pro Tips for Lord Danis
-
 ### 🏆 **Maximizing Achievement Points**
 1. **Perfect Sessions**: Aim for 100% title extraction rate (+600 points)
 2. **Speed Bonuses**: Complete sessions under 2 minutes (+150 points)
